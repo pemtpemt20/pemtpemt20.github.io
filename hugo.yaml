@@ -46,3 +46,7 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+disableKinds:
+  - taxonomy
+  - term
