@@ -13,6 +13,9 @@ cover:
   alt: "방미심위, 아동학대 CCTV 반복 노출 KBS Joy '주의'"
   relative: false
 images: ["https://img.yna.co.kr/photo/yna/YH/2026/03/12/PYH2026031216800001300_P2.jpg"]
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 <p><img src="https://img.yna.co.kr/photo/yna/YH/2026/03/12/PYH2026031216800001300_P2.jpg" alt="방미심위, 아동학대 CCTV 반복 노출 KBS Joy '주의'" style="max-width:100%;border-radius:8px;"></p>
